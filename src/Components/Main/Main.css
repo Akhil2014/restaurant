@@ -66,9 +66,20 @@
   font-size: 20px;
  }
 
+ .grid{
+  display: grid;
+    grid-template-columns: repeat(3,30%);
+    gap: 20px;
+    margin: auto;
+    width: 90%;
+    padding-left: 100px;
+    height: auto;
+
+ }
+
 .body {
-    width: 100%;
-    height: 640px;
+    width:100%;
+    height: 660px;
     padding: 1rem;
 
   background: hsla(141, 54%, 86%, 1);

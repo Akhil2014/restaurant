@@ -9,15 +9,15 @@ import { Review } from "./Reviews";
 
 
 
- export const Card = () => {
+ export const Card = ({img,title,items,cost,minprice,rating,votes,reviews,time}) => {
   return (
     <div>
       <div className="container">
         <div>
-          <Image img="https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20201214092757042942_114x101png"/>
+          <Image img={img}/>
         </div>
-        <div><Details title="Ziggy Shop" items={["Asian","South Indian","Desserts"]}  pricefortwo="400" minPrice="30"/> </div>
-        <div><Review rating="4.5" votes="465" reviews="100" /></div>
+        <div><Details title={title} items={items}  pricefortwo={cost} time={time} minPrice={minprice} /> </div>
+        <div><Review rating={rating} votes={votes} reviews={reviews} /></div>
       </div>
       <div className="footer">
         <Orderbutton />

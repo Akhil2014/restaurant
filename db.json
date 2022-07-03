@@ -1,0 +1,480 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },
+    {
+      "id": 2,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },
+    {
+      "id": 3,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },
+    {
+      "id": 4,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },
+    {
+      "id": 5,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },
+    {
+      "id": 6,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },
+    {
+      "id": 7,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },
+    {
+      "id": 8,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },
+    {
+      "id": 9,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },
+    {
+      "id": 10,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },
+    {
+      "id":11,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },
+    {
+      "id": 12,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 13,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 14,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 15,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 16,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id":17,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id":18,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id":19,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id":20,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 21,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 22,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 23,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 24,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 25,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 26,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 27,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 28,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    },{
+      "id": 29,
+      "title": "Burger King",
+      "img":"https://burgerking-image.s3.amazonaws.com/category/Home/web/1x_web_20210427112353788469_114x101png",
+       "items":["Asian","South India","Dessert"],
+       "cost":300,
+       "minprice":30,
+       "rating":4.5,
+       "votes":390,
+       "review":100,
+       "time":40,
+       "payment":{
+        "cash":true,
+        "card":false,
+        "upi":false
+       }
+    }
+  ]
+}
