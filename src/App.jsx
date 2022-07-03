@@ -27,6 +27,18 @@ function App() {
     <div className="App">
       <Navbar />
       <div className="body">
+        <div className="sorting-button">
+          <button className="button1">1 Rating</button>
+          <button className="button1">2 Rating</button>
+          <button className="button1">3 Rating</button>
+          <button className="button1">4 Rating</button>
+          <button className="button1">Cash only</button>
+          <button className="button1">Card only</button>
+          <button className="button1">UPI only</button>
+          <button className="button1">Low to high</button>
+          <button className="button1">High to low</button>
+          <button className="button1">All</button>
+        </div>
         <div className="grid">
           {data.map((e) => (
             <Card
@@ -44,11 +56,19 @@ function App() {
           ))}
         </div>
         <div className="div-button">
-          <button disabled={page===1} className="button1" onClick={() => setPage(page - 1)}>
+          <button
+            disabled={page === 1}
+            className="button1"
+            onClick={() => setPage(page - 1)}
+          >
             Prev
           </button>
           {page}
-          <button disabled={page===5} className="button1" onClick={() => setPage(page + 1)}>
+          <button
+            disabled={page === 5}
+            className="button1"
+            onClick={() => setPage(page + 1)}
+          >
             Next
           </button>
         </div>
