@@ -1,7 +1,10 @@
  export const Orderbutton = () => {
+  const handleClick = () => {
+    alert("Currently this function is not avaliable")
+  }
     return(
       <div>
-        <button className="button">Order Review</button>
+        <button onClick={handleClick} className="button">Order Review</button>
       </div>
     )
   }
