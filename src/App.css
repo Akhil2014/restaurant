@@ -26,12 +26,14 @@
 .button1:hover{
   background-color:#ffba08 ;
   color: #03071e;
-  transition: all 0.5s;
+  transition: all 1s;
   border: 2px solid #03071e;
 }
 
 .sorting-button{
-  width: 100%;
+  width: 88%;
+  padding-left: 8px;
+  margin: auto;
   height: 55px;
   margin-bottom: 10px;
   display: flex;
