@@ -608,27 +608,6 @@
         "card": false,
         "upi": false
       }
-    },
-    {
-      "id": 30,
-      "title": "Burger King",
-      "img": "https://burgerking-image.s3.amazonaws.com/category/Home/ml/1x_ml_20220211073252146876_93x83png",
-      "items": [
-        "Asian",
-        "South India",
-        "Dessert"
-      ],
-      "cost": 300,
-      "minprice": 30,
-      "rating": 4.5,
-      "votes": 390,
-      "review": 100,
-      "time": 40,
-      "payment": {
-        "cash": true,
-        "card": false,
-        "upi": false
-      }
     }
   ]
 }
